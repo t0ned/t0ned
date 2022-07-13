@@ -13,4 +13,4 @@ pip install grass
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=t0ned&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="t0ned" /> </p>
 
-target="_blank"><img src="https://github.com/t0ned/t0ned/blob/output/github-contribution-grid-snake.gif"</a>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
