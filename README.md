@@ -1,7 +1,7 @@
 <img src="https://media.discordapp.net/attachments/988000684437798932/996885488084471948/t0ned.png?width=1440&height=221">
 
-```sh-session
-pip install grass
+```zsh
+> neofetch
 ```
 <img src="https://komarev.com/ghpvc/?username=t0ned&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/t0ned" alt="Profile Stars"></a>
