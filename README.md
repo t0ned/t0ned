@@ -15,8 +15,6 @@ pip install grass
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=t0ned&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="t0ned" /> </p>
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/t0ned/t0ned">
